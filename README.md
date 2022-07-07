@@ -1,16 +1,14 @@
-### Hi there 👋
+### Olá! Sou a Ariane Sousa 😀👋
+- Estudando a Linguagem Python;
+- Estudando Banco de Dados;
 
-<!--
-**Ariane-Sousa/Ariane-Sousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariane-sousa77/)
+[![Linkedin](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ariane.crisousa@gmail.com)
 
-Here are some ideas to get you started:
+![Ariane's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ariane-Sousa&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Tecnologias utilizadas:
+
+<div style="display: inline_block"><br/>
+  <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
